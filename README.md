@@ -1,6 +1,6 @@
 # Breast cancer prediction using machine learning
 
-Data Collection: The dataset contains various features extracted from breast cancer patients, such as tumor size, shape, texture, etc. along with their corresponding diagnosis (malignant or benign).
+Data Collection: The dataset collected from Kaggle "Breast Cancer Wisconsin(Diagnostic) Data Set" contains various features extracted from breast cancer patients, such as tumor size, shape, texture, etc. along with their corresponding diagnosis (malignant or benign).
 
 Data Preprocessing: Before training the model, the data is preprocessed to ensure it's in a suitable format. This includes handling missing values, encoding categorical variables, and standardizing numerical features.
 
